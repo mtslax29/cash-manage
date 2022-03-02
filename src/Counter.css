@@ -1,0 +1,17 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.Counter .Tot-CR{
+    text-align: center;
+    border: solid black;
+    margin: 2rem;
+    box-sizing: content-box;
+}
+
+.Counter .Out-CD{
+    text-align: center;
+    border: solid black;
+    margin: 1rem;
+}

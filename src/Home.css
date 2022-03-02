@@ -1,0 +1,12 @@
+.Home{
+    text-align: center;
+}
+
+h1{
+    color: rgb(212, 97, 0);
+}
+
+li{
+    display: inline;
+    padding: 1rem;
+}
